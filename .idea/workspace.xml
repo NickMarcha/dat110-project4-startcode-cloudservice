@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bd77a44-f78f-4e7c-a5ff-145e5e46c3f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ACCloudService/src/main/java/no/hvl/dat110/ac/restservice/AccessLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACCloudService/src/main/java/no/hvl/dat110/ac/restservice/AccessLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACCloudService/src/main/java/no/hvl/dat110/ac/restservice/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACCloudService/src/main/java/no/hvl/dat110/ac/restservice/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1atS6sVTFOxqFpRVamfHWTDWRMZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.ac.restservice.App" />
+      <module name="ACCloudService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.ac.restservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd77a44-f78f-4e7c-a5ff-145e5e46c3f6" name="Default Changelist" comment="" />
+      <created>1587553224373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587553224373</updated>
+      <workItem from="1587553230098" duration="6756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4243" y="770" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587553255712">
+      <screen x="3440" y="342" width="1920" height="1040" />
+    </state>
+    <state x="4243" y="770" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/3440.342.1920.1040/0.0.3440.1400@3440.342.1920.1040" timestamp="1587553255712" />
+    <state width="1674" height="274" key="GridCell.Tab.0.bottom" timestamp="1587596652788">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="274" key="GridCell.Tab.0.bottom/3440.342.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1587596652788" />
+    <state width="914" height="274" key="GridCell.Tab.0.bottom/3440.342.1920.1040/0.0.3440.1400@3440.342.1920.1040" timestamp="1587558280268" />
+    <state width="1674" height="274" key="GridCell.Tab.0.center" timestamp="1587596652788">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="274" key="GridCell.Tab.0.center/3440.342.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1587596652788" />
+    <state width="914" height="274" key="GridCell.Tab.0.center/3440.342.1920.1040/0.0.3440.1400@3440.342.1920.1040" timestamp="1587558280267" />
+    <state width="1674" height="274" key="GridCell.Tab.0.left" timestamp="1587596652788">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="274" key="GridCell.Tab.0.left/3440.342.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1587596652788" />
+    <state width="914" height="274" key="GridCell.Tab.0.left/3440.342.1920.1040/0.0.3440.1400@3440.342.1920.1040" timestamp="1587558280267" />
+    <state width="1674" height="274" key="GridCell.Tab.0.right" timestamp="1587596652788">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="274" key="GridCell.Tab.0.right/3440.342.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1587596652788" />
+    <state width="914" height="274" key="GridCell.Tab.0.right/3440.342.1920.1040/0.0.3440.1400@3440.342.1920.1040" timestamp="1587558280268" />
+  </component>
+</project>
